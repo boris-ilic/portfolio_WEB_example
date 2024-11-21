@@ -1,0 +1,51 @@
+{
+      "helloWorld": "Hello World!",
+      "@helloWorld": {
+        "description": "The conventional newborn programmer greeting"
+      },
+      "copyRight": "Copyright © 2024 | Boris Ilić",
+      "@copyRight": {
+        "description": "Copyright label with current year and my full name"
+      },
+      "home": "Home",
+      "@home": {
+        "description": "Home page label in main menu"
+      },
+      "services": "Services",
+      "@services": {
+        "description": "Services page label in main menu"
+      },
+      "about": "About",
+      "@about": {
+        "description": "About page label in main menu"
+      },
+      "projects": "Projects",
+      "@projects": {
+        "description": "Projects page label in main menu"
+      },
+      "blogs": "Blogs",
+      "@blogs": {
+        "description": "Blogs page label in main menu"
+      },
+      "feedback": "Feedback",
+      "@feedback": {
+        "description": "Feedback page label in main menu"
+      },
+      "english": "English",
+      "@english": {
+        "description": "English flag label in menu"
+      },
+      "serbian": "Serbian",
+      "@serbian": {
+        "description": "Serbian flag label in menu"
+      },
+      "chooseLanguage": "Choose language",
+      "@chooseLanguage": {
+        "description": "Choose the app langauge in the app bar"
+      },
+      "contactMe": "Contact me",
+      "@contactMe": {
+        "description": "Contact me, text for button for my contact info"
+      }
+    }
+
